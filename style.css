@@ -1,0 +1,22 @@
+h1 {
+  color: green;
+  text-align: center;
+}
+
+body {
+    background-color: rgb(255, 194, 221)
+    
+}
+
+h1{
+    border:     1px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+p{
+     border:     1px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    
+}
